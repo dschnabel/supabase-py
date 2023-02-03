@@ -1,11 +1,11 @@
 [tool.poetry]
 name = "supabase"
-version = "0.7.1"
+version = "9.9.9"
 description = "Supabase client for Python."
 authors = ["Joel Lee <joel@joellee.org>", "Leon Fedden <leonfedden@gmail.com>", "Daniel Reinón García <danielreinon@outlook.com>", "Leynier Gutiérrez González <leynier41@gmail.com>", "Anand"]
-homepage = "https://github.com/supabase-community/supabase-py"
-repository = "https://github.com/supabase-community/supabase-py"
-documentation = "https://github.com/supabase-community/supabase-py"
+homepage = "https://github.com/dschnabel/supabase-py"
+repository = "https://github.com/dschnabel/supabase-py"
+documentation = "https://github.com/dschnabel/supabase-py"
 readme = "README.md"
 license = "MIT"
 classifiers = [
